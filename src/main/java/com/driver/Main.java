@@ -8,8 +8,6 @@ public class Main {
 
                 System.out.println(rwonly.getName());
                 // 'name' has private access in 'com. driver. RWOnly'
-
-
     }
   
 }
